@@ -555,9 +555,9 @@ Documentation          ✅
 
 # 👨‍💻 Author
 
-**Mahendra Babu**
+**Sriram Konduru**
 
-B.Tech Computer Science Engineering — CSE (AI)
+B.Tech Computer Science Engineering — CSE (CC)
 
 2026 Graduate
 
